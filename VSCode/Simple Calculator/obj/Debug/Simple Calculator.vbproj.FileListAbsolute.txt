@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\bin\Debug\Simple Calculator.xml
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\obj\Debug\Simple Calculator.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\obj\Debug\Simple_Calculator.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\obj\Debug\Simple Calculator.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\obj\Debug\Simple Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\obj\Debug\Simple Calculator.xml
+C:\Users\aftanom\Documents\GitHubRepos\Simplecalculator\SimpleCalculator\VSCode\Simple Calculator\obj\Debug\Simple Calculator.pdb
